@@ -4,13 +4,19 @@ const app = express()
 const environment = process.env.NODE_ENV || 'development'
 const configuration = require('./knexfile')[environment]
 const database = require('knex')(configuration)
+
 app.use(express.json())
+
 app.set('port', process.env.PORT || 3000)
+
 const port = process.env.PORT || 3000
+
 app.listen(port, () => console.log(`Listening on port ${port}...`))
+
 app.get('/', (request, response) => {
 	response.send('Welcome to the bird app!')
 })
+
 app.get('/api/v1/allBirds', async (request, response) => {
 	try {
 		const birds = await database('bird_data').select()
@@ -19,6 +25,7 @@ app.get('/api/v1/allBirds', async (request, response) => {
 		response.status(500).json({ error })
 	}
 })
+
 app.get('/api/v1/allBirds/:id', async (request, response) => {
 	try {
 		const bird = await database('bird_data')
@@ -35,6 +42,7 @@ app.get('/api/v1/allBirds/:id', async (request, response) => {
 		response.status(500).json({ error })
 	}
 })
+
 app.post('/api/v1/allBirds', (request, response) => {
 	const schema = Joi.object({
 		family: Joi.string().required(),
@@ -45,6 +53,7 @@ app.post('/api/v1/allBirds', (request, response) => {
 		funFact: Joi.string().required(),
 		imgURL: Joi.string().required(),
 	})
+
 	const newBird = {
 		id: allBirds.length + 1,
 		family: request.body.family,
