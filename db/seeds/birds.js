@@ -5,7 +5,7 @@
  *
  */
 
-const birdData = require('../data')
+const birdData = require('../db/data')
 
 // exports.seed = function (knex) {
 // 	return knex('bird_data')
