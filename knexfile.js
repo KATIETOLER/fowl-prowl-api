@@ -1,3 +1,6 @@
+/**
+* @type { Object.<string, import("knex").Knex.Config> }
+*/
 // Update with your config settings.
 module.exports = {
 	development: {
@@ -24,7 +27,7 @@ module.exports = {
 // },
 
 production: {
-	    client: 'postgresql',
+	    client: 'pg',
 	    connection: {
 	        connectionString: process.env.DATABASE_URL,
 	        ssl: { rejectUnauthorized: false }
@@ -38,9 +41,6 @@ production: {
 		  useNullAsDefault: true
 	}
 }
-/**
- * @type { Object.<string, import("knex").Knex.Config> }
- */
 // module.exports = {
 // 	development: {
 // 		client: 'pg',
