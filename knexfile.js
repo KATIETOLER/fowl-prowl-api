@@ -36,7 +36,7 @@ production: {
 		    directory: './db/migrations'
 		  },
 			seeds: {
-      directory: './database/seeds/dev'
+      directory: './database/seeds'
     },
 		  useNullAsDefault: true
 	}
