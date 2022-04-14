@@ -34,7 +34,7 @@ production: {
 		  },
 			seeds: {
       directory: './database/seeds/dev'
-    }
+    },
 		  useNullAsDefault: true
 	}
 }
