@@ -13,13 +13,12 @@ module.exports = {
 	},
 
 	production: {
-  client: 'pg',
-  connection: process.env.DATABASE_URL + `?ssl=true`,
-  migrations: {
-    directory: './db/migrations'
-  },
-  useNullAsDefault: true
-},
+	    client: 'postgresql',
+	    connection: {
+	        connectionString: process.env.DATABASE_URL,
+	        ssl: { rejectUnauthorized: false }
+	    }
+	}
 }
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
