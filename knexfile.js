@@ -7,26 +7,30 @@ module.exports = {
 			directory: './db/migrations',
 		},
 		seeds: {
-			directory: './db/seeds',
+			directory: './db/seeds/dev',
 		},
 		useNullAsDefault: true,
 	},
 
 	production: {
-	    client: 'postgresql',
-	    connection: {
-	        connectionString: process.env.DATABASE_URL,
-	        ssl: { rejectUnauthorized: false }
-	    },
-			migrations: {
-				directory: './db/migrations',
-			},
-			seeds: {
-				directory: './db/seeds',
-			},
-			useNullAsDefault: true,
-	}
+  client: 'pg',
+  connection: process.env.DATABASE_URL + `?ssl=true`,
+  migrations: {
+    directory: './db/migrations'
+  },
+  useNullAsDefault: true
+},
 }
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
  */
+module.exports = {
+	development: {
+		client: 'pg',
+		connection: 'postgres://localhost/bird_data',
+		migrations: {
+			directory: './db/migrations',
+		},
+		useNullAsDefault: true,
+	},
+}
