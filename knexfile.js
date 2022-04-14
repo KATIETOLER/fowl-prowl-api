@@ -15,32 +15,33 @@ module.exports = {
 		useNullAsDefault: true,
 	},
 
-	production: {
-  client: 'pg',
-  connection: process.env.DATABASE_URL + `?ssl=true`,
-	connectionString: process.env.DATABASE_URL,
-				 ssl: { rejectUnauthorized: false },
-  migrations: {
-    directory: './db/migrations'
-  },
-  useNullAsDefault: true
-},
 
-// production: {
-// 	    client: 'pg',
-// 	    connection: {
-// 	        connectionString: process.env.DATABASE_URL,
-// 	        ssl: { rejectUnauthorized: false }
-// 	    },
-// 			migrations: {
-// 		    directory: './db/migrations'
-// 		  },
-// 			seeds: {
-//       directory: './database/seeds'
-//     },
-// 		  useNullAsDefault: true
-// 	}
+production: {
+	    client: 'pg',
+	    connection: {
+	        connectionString: process.env.DATABASE_URL,
+	        ssl: { rejectUnauthorized: false }
+	    },
+			migrations: {
+		    directory: './db/migrations'
+		  },
+			seeds: {
+      directory: './database/seeds/dev'
+    },
+		  useNullAsDefault: true
+	}
 }
+// 	production: {
+	//   client: 'pg',
+	//   connection: process.env.DATABASE_URL + `?ssl=true`,
+	// 	connectionString: process.env.DATABASE_URL,
+	// 				 ssl: { rejectUnauthorized: false },
+	//   migrations: {
+		//     directory: './db/migrations'
+		//   },
+		//   useNullAsDefault: true
+		// },
+		
 // module.exports = {
 // 	development: {
 // 		client: 'pg',
