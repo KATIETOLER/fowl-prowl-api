@@ -26,7 +26,7 @@ production: {
 		    directory: './db/migrations'
 		  },
 			seeds: {
-      directory: './database/seeds/dev'
+      directory: './database/seeds/'
     },
 		  useNullAsDefault: true
 	}
@@ -41,7 +41,7 @@ production: {
 		//   },
 		//   useNullAsDefault: true
 		// },
-		
+
 // module.exports = {
 // 	development: {
 // 		client: 'pg',
