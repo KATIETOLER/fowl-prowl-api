@@ -74,7 +74,7 @@ const birdData = [
 			'Subtropical or tropical moist lowland forest and subtropical or tropical moist montane forest',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Yellow-cheeked_tit#/media/File:Yellow-cheeked_Tit.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/6/60/Yellow-cheeked_Tit_Neora_Valley_National_Park_West_Bengal_India_30.04.2016.jpg',
 	},
 	{
 		'id': 7,
@@ -100,7 +100,7 @@ const birdData = [
 		'fun_fact':
 			'Widespread and by no means rare, it is not considered a threatened species by the IUCN.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Rufous-vented_tit#/media/File:Rufous-vented_Tit.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/3/3a/Rufous-vented_Tit.jpg',
 	},
 	{
 		'id': 9,
@@ -113,7 +113,7 @@ const birdData = [
 		'fun_fact':
 			'The coal tit has the dubious distinction of having the largest number of bird fleas (Ceratophyllus gallinae) reported from a single nest, 5,754 fleas!',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Coal_tit#/media/File:Coal_tit_UK09.JPG',
+			'https://upload.wikimedia.org/wikipedia/commons/9/92/Coal_tit_UK09.JPG',
 	},
 	{
 		'id': 10,
@@ -127,7 +127,7 @@ const birdData = [
 		'fun_fact':
 			'In 2009, great tits were reported killing, and eating the brains of roosting pipistrelle bats.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Great_tit#/media/File:Great_tit_side-on.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/e/ef/Great_tit_side-on.jpg',
 	},
 	{
 		'id': 11,
@@ -141,7 +141,7 @@ const birdData = [
 		'fun_fact':
 			"Male yellow- bellied tits are very territorial, but  they have a mutual respect for their neighbors. This is called the “dear-enemy” effect, since the birds respect each other's territory and want to maintain friendships.",
 		'img_url':
-			'https://en.wikipedia.org/wiki/Yellow-bellied_tit#/media/File:Yellow-bellied_Tit_(Pardaliparus_venustulus)_(8077149502).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/7/75/Yellow-bellied_Tit_%28Pardaliparus_venustulus%29_%288077149502%29.jpg',
 	},
 	{
 		'id': 12,
@@ -154,7 +154,7 @@ const birdData = [
 			'Lowland forest habitats, including secondary forests, forest edge, swamps as well as submontane forest',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Palawan_tit#/media/File:7504_Palawan_Tit_2_(1847360808).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/7/74/7504_Palawan_Tit_2_%281847360808%29.jpg',
 	},
 	{
 		'id': 13,
@@ -166,7 +166,7 @@ const birdData = [
 		'habitat': 'Coniferous forests and deciduous woodland',
 		'fun_fact': 'A few vagrant crested tits have been seen in England.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/European_crested_tit#/media/File:Lophophanes_cristatus_-_01.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/dc/Lophophanes_cristatus_-_01.jpg',
 	},
 	{
 		'id': 14,
@@ -179,7 +179,7 @@ const birdData = [
 			'Temperate forest and subtropical or tropical moist montane forest',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Grey_crested_tit#/media/File:Grey-crested_Tit_I_IMG_7285.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/9/98/Grey-crested_Tit_I_IMG_7285.jpg',
 	},
 	{
 		'id': 15,
@@ -192,7 +192,7 @@ const birdData = [
 		'fun_fact':
 			'Their song is usually described as a whistled pidi-pidi-pidi-pidi.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Bridled_titmouse#/media/File:Bridled_Titmouse_(Baeolophus_wollweberi)_(16875140301).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/8/8c/Bridled_Titmouse_%28Baeolophus_wollweberi%29_%2816875140301%29.jpg',
 	},
 	{
 		'id': 16,
@@ -205,7 +205,7 @@ const birdData = [
 			'Woodlands of warm, dry pinyon-juniper, juniper and desert riparian woods',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Juniper_titmouse#/media/File:Juniper_Titmouse2.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/d0/Juniper_Titmouse2.jpg',
 	},
 	{
 		'id': 17,
@@ -217,7 +217,7 @@ const birdData = [
 		'habitat': 'Brushlands, woods, riverside groves',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Black-crested_titmouse#/media/File:Black-crested_Titmouse_in_Santa_Ana_National_Wildlife_Refuge.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/d1/Black-crested_Titmouse_in_Santa_Ana_National_Wildlife_Refuge.jpg',
 	},
 	{
 		'id': 18,
@@ -231,7 +231,7 @@ const birdData = [
 		'fun_fact':
 			'In Japan varied tits have been used in a kind of show called "omikujihiki" to draw fortune telling-slips (omikuji).',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Varied_tit#/media/File:Varied_tit_at_Tenn%C5%8Dji_Park_in_Osaka,_January_2016.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/2/24/Varied_tit_at_Tenn%C5%8Dji_Park_in_Osaka%2C_January_2016.jpg',
 	},
 	{
 		'id': 19,
@@ -243,20 +243,19 @@ const birdData = [
 		'habitat': 'Forest, anthropogenic biome',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Owston%27s_tit#/media/File:Sittiparus_owstoni_60369541_(cropped).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/7/7c/Sittiparus_owstoni_60369541_%28cropped%29.jpg',
 	},
 	{
 		'id': 20,
-		'family': 'Paridae',
-		'common_name': 'Chestnut-bellied tit',
-		'scientific_name': 'Sittiparus castaneoventris',
+		'family': 'Picidae',
+		'common_name': 'Pileated woodpecker',
+		'scientific_name': 'Dryocopus pileatus',
 		'description':
-			'The chestnut-bellied tit (Sittiparus castaneoventris) is a small passerine bird in the tit family Paridae that is endemic to Taiwan.',
-		'habitat':
-			'Forest, parks, and gardens, primarily in foothill and montane areas',
+			'The pileated woodpecker (Dryocopus pileatus) is a large, mostly black woodpecker native to North America.',
+		'habitat': 'Deciduous forests',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Chestnut-bellied_tit#/media/File:Sittiparus_castaneoventris,_Taiwan_1.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/4/4c/Pileated_Woodpecker_%289597212081%29%2C_crop.jpg',
 	},
 	{
 		'id': 21,
@@ -272,15 +271,15 @@ const birdData = [
 	},
 	{
 		'id': 22,
-		'family': 'Paridae',
-		'common_name': 'Bridled titmouse',
-		'scientific_name': 'Baeolophus wollweberi',
+		'family': 'Picidae',
+		'common_name': 'Black woodpecker',
+		'scientific_name': 'Dryocopus martius',
 		'description':
-			'The bridled titmouse (Baeolophus wollweberi) is a small songbird, a passerine bird in the tit family Paridae.',
+			'The black woodpecker (Dryocopus martius) is a large woodpecker that lives in mature forests across the northern Palearctic.',
 		'habitat': 'Deciduous woods or mixed evergreen-deciduous woods',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Bridled_titmouse#/media/File:Bridled_Titmouse_(Baeolophus_wollweberi)_(16875140301).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/d1/BlackWoods.jpg',
 	},
 	{
 		'id': 23,
@@ -294,7 +293,7 @@ const birdData = [
 		'fun_fact':
 			'The titmouse can demonstrate curiosity regarding humans, and sometimes will perch on a window ledge and seem to be peering into the house.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Tit_(bird)#/media/File:Tufted_Titmouse-27527-2.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/6/6e/Baeolophus_bicolor_15.jpeg',
 	},
 	{
 		'id': 24,
@@ -308,7 +307,7 @@ const birdData = [
 		'fun_fact':
 			'Eurasian blue tits are able to culturally transmit learning to other tit species. An example of this, dating from the 1920s, is the ability to open milk bottles with foil tops, to get at the cream underneath.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Eurasian_blue_tit#/media/File:Eurasian_blue_tit_Lancashire.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/8/86/Eurasian_blue_tit_Lancashire.jpg',
 	},
 	{
 		'id': 25,
@@ -321,7 +320,7 @@ const birdData = [
 			'Lowland areas, large areas of moist, broadleaved woodland, wet alder woodland, riverside trees, parks and gardens or orchards',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Marsh_tit#/media/File:Parus_palustris02.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/3/3a/Parus_palustris02.jpg',
 	},
 	{
 		'id': 26,
@@ -334,7 +333,7 @@ const birdData = [
 		'fun_fact':
 			'The Black-capped generally sings out a “fee-bee” call while the Carolina sings “fee-bee fee-bay;” however, this song is learned and, in overlapping territories, may be learned from the “wrong” bird.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Black-capped_chickadee#/media/File:Poecile-atricapilla-001.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg',
 	},
 	{
 		'id': 27,
@@ -361,7 +360,7 @@ const birdData = [
 			'Boreal forest, temperate forest, and subtropical or tropical moist lowland forest.',
 		'fun_fact': '',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Green-backed_tit#/media/File:Green_Backed_tit_in_Sattal_India.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/8/89/Green_Backed_tit_in_Sattal_India.jpg',
 	},
 	{
 		'id': 29,
@@ -400,7 +399,7 @@ const birdData = [
 		'fun_fact':
 			'This species only has a population of about 800 birds, and is considered vulnerable.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Seychelles_kestrel#/media/File:Falco_araea_Seychelles_Kestrel_side_views.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/7/79/Falco_araea_Seychelles_Kestrel_side_views.jpg',
 	},
 	{
 		'id': 33,
@@ -414,7 +413,7 @@ const birdData = [
 		'fun_fact':
 			'The Mauritius kestrel was once the most endagered falcon species in the world in the 1970s - it has since recovered from endangerment, and is now considered vulnerable.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Mauritius_kestrel#/media/File:Falco_punctatus.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/5/53/Falco_punctatus.jpg',
 	},
 	{
 		'id': 34,
@@ -427,7 +426,7 @@ const birdData = [
 		'fun_fact':
 			'The Spotted kestrel has a habit of fluffing its tail while it is perched. This helps these birds to balance while they feed.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Spotted_kestrel#/media/File:Spotted_kestrel_-bird_-birding_-bandungbirding_-Ig_Bird_-birdextreme_-nature_perfection_-wildlife_(16656529537).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/d3/Spotted_kestrel_-bird_-birding_-bandungbirding_-Ig_Bird_-birdextreme_-nature_perfection_-wildlife_%2816656529537%29.jpg',
 	},
 	{
 		'id': 35,
@@ -441,7 +440,7 @@ const birdData = [
 		'fun_fact':
 			"The Nankeen kestrel is one of the smallest falcons, and unlike many, does not rely on speed to catch it's prey.",
 		'img_url':
-			"https://en.wikipedia.org/wiki/Nankeen_kestrel#/media/File:Falco_cenchroides_-_Bushell's_Lagoon.jpg",
+			'https://upload.wikimedia.org/wikipedia/commons/8/82/Falco_cenchroides_Flickr.jpg',
 	},
 	{
 		'id': 36,
@@ -454,7 +453,7 @@ const birdData = [
 		'fun_fact':
 			'The Common kestrel is able to see near ultraviolent light, allowing the birds to detect the urine trails around rodent burrows.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Common_kestrel#/media/File:Common_kestrel_falco_tinnunculus.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/2/24/Common_kestrel_falco_tinnunculus.jpg',
 	},
 	{
 		'id': 37,
@@ -467,7 +466,8 @@ const birdData = [
 			'High-lying, central, and eastern regions of Angola, the Democratic Republic of Congo, Tanzania, and South Africa.',
 		'fun_fact':
 			'Rock kestrels have been observed following baboons through grasslands, and caatching insect species that are flushed out as a result of the baboons path.',
-		'img_url': 'https://en.wikipedia.org/wiki/Rock_kestrel',
+		'img_url':
+			'https://upload.wikimedia.org/wikipedia/commons/0/02/Rock_Kestrel_%28Falco_rupicolus%29%2C_Mountain_Zebra_NP%2C_South_Africa.jpg',
 	},
 	{
 		'id': 38,
@@ -479,7 +479,9 @@ const birdData = [
 		'habitat': 'Rainforests of New Guinea',
 		'fun_fact':
 			"The word 'Lophorina' in the bird's scientific name means 'tuft', this is based on the upward standing tuft of feathers above their head.",
-		'img_url': 'https://images-cdn.9gag.com/photo/aQoKVpw_700b.jpg',
+		'img_url': [
+			'https://upload.wikimedia.org/wikipedia/commons/2/21/Lophorina_superba_-Papua_New_Guinea-4.jpg',
+		],
 	},
 	{
 		'id': 39,
@@ -492,7 +494,7 @@ const birdData = [
 		'fun_fact':
 			'The female builds the nest and cares for the young without male assistance.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/File:Cicinnurus_regius-20031005.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/d/df/Cicinnurus_regius-20031005.jpg',
 	},
 	{
 		'id': 40,
@@ -504,7 +506,7 @@ const birdData = [
 		'habitat': 'Mountains and rainforests of New Guinea',
 		'fun_fact': 'These birds can easily live up to 30 years',
 		'img_url':
-			'https://en.wikipedia.org/wiki/King_of_Saxony_bird-of-paradise#/media/File:Pteridophora_alberti_-Papua_New_Guinea-8.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/f/f3/Pteridophora_alberti_-Papua_New_Guinea-8.jpg',
 	},
 	{
 		'id': 41,
@@ -518,7 +520,7 @@ const birdData = [
 		'fun_fact':
 			'The males take a long time to mature. It can take a male Red Bird up to seven years for them to gain their adult plumage.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Red_bird-of-paradise#/media/File:Stavenn_Paradisaea_rubra_00.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/a/aa/Stavenn_Paradisaea_rubra_00.jpg',
 	},
 	{
 		'id': 42,
@@ -532,7 +534,7 @@ const birdData = [
 		'fun_fact':
 			'The male species has a little blue cap on their head because they are, in fact, gentlemanly.',
 		'img_url':
-			"https://en.wikipedia.org/wiki/Wilson%27s_bird-of-paradise#/media/File:Wilson's_Bird_of_Paradise_Best.jpg",
+			'https://upload.wikimedia.org/wikipedia/commons/c/c4/Wilson%27s_Bird_of_Paradise_Best.jpg',
 	},
 	{
 		'id': 43,
@@ -546,7 +548,7 @@ const birdData = [
 		'fun_fact':
 			'The female usually lays two pinkish eggs with dark markings in a nest in a tree high above ground.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Lesser_bird-of-paradise#/media/File:Lesser_Bird_of_Paradise,_Bronx_Zoo.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/6/64/Lesser_Bird_of_Paradise.jpg',
 	},
 	{
 		'id': 44,
@@ -559,7 +561,7 @@ const birdData = [
 		'fun_fact':
 			'As well as insects, they eat fruits from the trees, some which they peel by holding the fruit with one foot and removing the skin with their bill.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Victoria%27s_riflebird#/media/File:Ptiloris_victoriae_-Daintree,_Queensland,_Australia-8_(1).jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/f/f3/Ptiloris_victoriae_-Daintree%2C_Queensland%2C_Australia-8_%281%29.jpg',
 	},
 	{
 		'id': 45,
@@ -573,7 +575,7 @@ const birdData = [
 		'fun_fact':
 			'During courtship displays, the male fully extends his wings and raises his tail; he jerks upward while swinging his head from side to side, showing off his metallic blue-green breast shield, and producing a distinctive "woosh" sound as he flaps his wings.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Magnificent_riflebird#/media/File:Magnificent_Riflebird.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/1/10/Magnificent_Riflebird.jpg',
 	},
 	{
 		'id': 46,
@@ -587,7 +589,7 @@ const birdData = [
 		'fun_fact':
 			"It's name commemorates the Scottish collector, Andrew Goldie, who discovered the bird in 1882.",
 		'img_url':
-			'https://en.wikipedia.org/wiki/Goldie%27s_bird-of-paradise#/media/File:Paradesia_decora_Keulemans.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/7/74/Paradesia_decora_Keulemans.jpg',
 	},
 	{
 		'id': 47,
@@ -601,7 +603,7 @@ const birdData = [
 		'fun_fact':
 			'The male has the longest tail feathers in relation to body and size of any bird, over three times the length of its body.',
 		'img_url':
-			'https://en.wikipedia.org/wiki/Ribbon-tailed_astrapia#/media/File:Ribbon-tailed_Astrapia.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/a/ab/Ribbon-tailed_Astrapia.jpg',
 	},
 ]
 
