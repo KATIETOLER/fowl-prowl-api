@@ -480,7 +480,7 @@ const birdData = [
 		'fun_fact':
 			"The word 'Lophorina' in the bird's scientific name means 'tuft', this is based on the upward standing tuft of feathers above their head.",
 		'img_url': [
-			'https://upload.wikimedia.org/wikipedia/commons/2/21/Lophorina_superba_-Papua_New_Guinea-4.jpg',
+			'https://upload.wikimedia.org/wikipedia/commons/5/52/Lophorina_superba_-_Monograph_of_the_Paradiseidae_%28cropped%29.jpg',
 		],
 	},
 	{
