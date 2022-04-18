@@ -1,6 +1,6 @@
 # fowl-api
 
-This is the back end API for the project Fowl Prowl. It con
+This is the back end API for the birdwatching app Fowl Prowl. This API was created as a project to learn Express.js, Knex, and PostgreSQL.
 
 - View the front end Repo here: [Fowl Prowl](https://github.com/AliNooner/fowl-prowl-app)
 
