@@ -1,10 +1,12 @@
 # fowl-api
 
-This is the back end API for the project Fowl Prowl
+This is the back end API for the project Fowl Prowl. It con
 
 - View the front end Repo here: [Fowl Prowl](https://github.com/AliNooner/fowl-prowl-app)
 
 - View this API deployed on Heroku here: [Fowl Prowl API]('https://fowl-prowl-api.herokuapp.com/api/v1/allBirds')
+
+- View the deployed App for the front end here: [Fowl Prowl](https://fowl-prowl-app.surge.sh/)
 
 ## Local Set-Up
 
