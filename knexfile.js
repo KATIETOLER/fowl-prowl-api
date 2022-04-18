@@ -1,7 +1,7 @@
 /**
 * @type { Object.<string, import("knex").Knex.Config> }
 */
-// Update with your config settings.
+
 module.exports = {
 	development: {
 		client: 'pg',
@@ -14,7 +14,6 @@ module.exports = {
 		},
 		useNullAsDefault: true,
 	},
-
 
 production: {
 	    client: 'pg',
@@ -31,24 +30,3 @@ production: {
 		  useNullAsDefault: true
 	}
 }
-// 	production: {
-	//   client: 'pg',
-	//   connection: process.env.DATABASE_URL + `?ssl=true`,
-	// 	connectionString: process.env.DATABASE_URL,
-	// 				 ssl: { rejectUnauthorized: false },
-	//   migrations: {
-		//     directory: './db/migrations'
-		//   },
-		//   useNullAsDefault: true
-		// },
-
-// module.exports = {
-// 	development: {
-// 		client: 'pg',
-// 		connection: 'postgres://localhost/bird_data',
-// 		migrations: {
-// 			directory: './db/migrations',
-// 		},
-// 		useNullAsDefault: true,
-// 	},
-// }

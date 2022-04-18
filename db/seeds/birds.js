@@ -1,21 +1,10 @@
 /**
  * @param { import("knex").Knex } knex
  * @returns { Promise<void> }
- *
- *
  */
 
 const birdData = require('../../data')
 
-// exports.seed = function (knex) {
-// 	return knex('bird_data')
-// 		.del()
-// 		.then(function () {
-// 			return knex('bird_data').insert(birdData)
-// 		})
-// }
-
-// ----
 const createBird = async (knex, bird) => {
 	const birdId = await knex('bird_data').insert({
 		id: bird.id,
