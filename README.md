@@ -24,7 +24,7 @@ This is the back end API for the birdwatching app Fowl Prowl. This API was creat
 
 - View this API deployed on Heroku here: [Fowl Prowl API]('https://fowl-prowl-api.herokuapp.com/api/v1/allBirds')
 
-- View the deployed App for the front end here: [Fowl Prowl](https://fowl-prowl-app.surge.sh/)
+- View the deployed App for the front end here: [Fowl Prowl](https://fowl-prowl-turing.surge.sh/)
 
 ## Local Set-Up
 
