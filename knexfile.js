@@ -1,7 +1,3 @@
-/**
-* @type { Object.<string, import("knex").Knex.Config> }
-*/
-
 module.exports = {
 	development: {
 		client: 'pg',
@@ -14,6 +10,7 @@ module.exports = {
 		},
 		useNullAsDefault: true,
 	},
+
 
 production: {
 	    client: 'pg',
