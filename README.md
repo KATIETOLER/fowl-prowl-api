@@ -1,6 +1,25 @@
-# fowl-api
+# Fowl Prowl API
+
+# HungryBird
+
+![hungry bird](https://media4.giphy.com/media/VBVY9IJKDxwHK/giphy.gif)
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Links](#links)
+- [SetUp](#Local)
+- [Technologies](#technologies)
+- [Contributors](#contributors)
+- [HungryBird](#hungrybird)
+
+## Overview
 
 This is the back end API for the birdwatching app Fowl Prowl. This API was created as a project to learn Express.js, Knex, and PostgreSQL.
+
+## Links
 
 - View the front end Repo here: [Fowl Prowl](https://github.com/AliNooner/fowl-prowl-app)
 
@@ -13,10 +32,10 @@ This is the back end API for the birdwatching app Fowl Prowl. This API was creat
 - Clone down this repo
 - `cd` into this directory
 - Run `npm i` to install dependencies
-- shut down the server with the command `ctrl + c`
 - Use the command `node server.js` to begin the Bird API server.
+- Shut down the server with the command `ctrl + c`
 
-- Additionally, follow the instructions in the [README](https://github.com/AliNooner/fowl-prowl-app/blob/main/README.md) to set up the front end and view the site
+- Additionally, follow the instructions in the [README](https://github.com/AliNooner/fowl-prowl-app/blob/main/README.md) to set up the front end and view the site locally
 
 ## Technologies:
 
@@ -32,5 +51,3 @@ This is the back end API for the birdwatching app Fowl Prowl. This API was creat
 - [Nicole Valentini](https://github.com/nvalentini21)
 
 ---
-
-![hungry bird](https://media4.giphy.com/media/VBVY9IJKDxwHK/giphy.gif)
