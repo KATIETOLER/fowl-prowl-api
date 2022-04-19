@@ -4,6 +4,11 @@ const app = express()
 const environment = process.env.NODE_ENV || 'development'
 const configuration = require('./knexfile')[environment]
 const database = require('knex')(configuration)
+const cors = require('cors')
+
+app.use(cors({
+  allowedOrigins: ['localhost:3000']
+}));
 
 app.use(express.json())
 
