@@ -13,7 +13,6 @@
 - [SetUp](#Local)
 - [Technologies](#technologies)
 - [Contributors](#contributors)
-- [HungryBird](#hungrybird)
 
 ## Overview
 
@@ -49,5 +48,6 @@ This is the back end API for the birdwatching app Fowl Prowl. This API was creat
 - [Ali Nooner](https://github.com/AliNooner)
 - [Katie Toler](https://github.com/KATIETOLER)
 - [Nicole Valentini](https://github.com/nvalentini21)
+- PM: [Scott Ertmer](https://github.com/sertmer)
 
 ---
