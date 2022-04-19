@@ -18,6 +18,14 @@
 
 This is the back end API for the birdwatching app Fowl Prowl. This API was created as a project to learn Express.js, Knex, and PostgreSQL.
 
+## Technologies:
+
+- Express.js
+- PostgreSQL
+- Knex
+- JavaScript
+
+
 ## Links
 
 - View the front end Repo here: [Fowl Prowl Repo](https://github.com/AliNooner/fowl-prowl-app)
@@ -35,13 +43,6 @@ This is the back end API for the birdwatching app Fowl Prowl. This API was creat
 - Shut down the server with the command `ctrl + c`
 
 - Additionally, follow the instructions in the [README](https://github.com/AliNooner/fowl-prowl-app/blob/main/README.md) to set up the front end and view the site locally
-
-## Technologies:
-
-- Express.js
-- PostgreSQL
-- Knex
-- JavaScript
 
 ## Contributors
 
